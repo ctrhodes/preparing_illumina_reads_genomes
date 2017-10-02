@@ -1,6 +1,6 @@
 #!/bin/bash
 
-pathname=( "/home/chris/fastq/GBM_RNASeq/FCC28YK_20130729/Sample_GBM1/process")
+pathname=( "/home/fastq/RNASeq/")
 
 cd $pathname
 pwd
