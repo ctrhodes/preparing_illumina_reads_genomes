@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dir="/home/fastq"
+dir="/home/fastq/"
 
 for i in $(ls -d $dir/*/)
 do
