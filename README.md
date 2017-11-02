@@ -1,4 +1,4 @@
-# preprocess_illumina_reads
+# preparing_illumina_reads_genomes
 
 This repository contains scripts for preparing raw illumina read files and reference genomes. After completing the scripts in this repository, the illumina reads and any required reference genomes should be ready for use as input in standard bioinformatic pipelines (i.e. genomic alignment, visualizaiton, etc).
 
