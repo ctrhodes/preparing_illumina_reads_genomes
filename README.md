@@ -8,9 +8,11 @@ fastq_decompress.sh
 
 decompress fastq files as they are commonly compressed to save space
 
+
 format_Ensembl_ref_genome_headers.sh
 
 format Ensembl reference chromosome headers to ensure downstream software does not produce an error. This script in particular searches for chromosomes in the format >1 or >13 (i.e. chromosomes 1 or 13) and converts the header to chr1 or chr13. This is may be required when preparing custom reference genomes as many genomic tools require genomes, trancriptomes, etc to have consistent formating across files.
+
 
 illumina_chastity_filtering.sh
 
